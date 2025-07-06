@@ -12,7 +12,7 @@ To monitor how much CO₂ (in grams) is emitted per kilowatt-hour (g/kWh) of ele
 
 ## Data Source
 
-- Downloaded from **https://iced.energy.gov.in/**
+- Downloaded from **https://iced.niti.gov.in/**
 - Two datasets used:
   - **CO₂ Emissions by Fuel Type (Coal, Oil & Gas)** – state-wise, yearly
   - **Electricity Generation by Source** – state-wise, yearly
