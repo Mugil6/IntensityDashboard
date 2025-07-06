@@ -1,6 +1,6 @@
 # Emission Intensity Dashboard
 
-This project tracks and visualizes the **emission intensity of power generation across Indian states** using data from the [Indian Climate and Energy Dashboard (ICED)](https://iced.energy.gov.in/).
+This project tracks and visualizes the **emission intensity of power generation across Indian states** using data from the [Indian Climate and Energy Dashboard (ICED)](https://iced.niti.gov.in/).
 
 ---
 
